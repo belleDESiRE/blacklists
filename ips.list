@@ -11,8 +11,6 @@ https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/iblocklist_onion_router.netset
-https://iplists.firehol.org/files/spamhaus_drop.netset
-https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/tor_exits.ipset
 https://lists.blocklist.de/lists/all.txt
 https://lists.blocklist.de/lists/strongips.txt
