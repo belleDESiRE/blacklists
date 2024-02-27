@@ -17,9 +17,11 @@ https://lists.blocklist.de/lists/all.txt
 https://lists.blocklist.de/lists/strongips.txt
 https://myip.ms/files/blacklist/csf/latest_blacklist.txt
 https://myip.ms/files/blacklist/csf/latest_blacklist_users_submitted.txt
+https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://sigs.interserver.net/iprbl.txt
+https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://www.binarydefense.com/banlist.txt
