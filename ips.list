@@ -14,6 +14,7 @@ https://iplists.firehol.org/files/iblocklist_onion_router.netset
 https://iplists.firehol.org/files/tor_exits.ipset
 https://lists.blocklist.de/lists/all.txt
 https://lists.blocklist.de/lists/strongips.txt
+https://mirai.security.gives/data/ip_list.txt
 https://myip.ms/files/blacklist/csf/latest_blacklist.txt
 https://myip.ms/files/blacklist/csf/latest_blacklist_users_submitted.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
