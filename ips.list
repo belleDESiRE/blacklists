@@ -17,7 +17,15 @@ https://mirai.security.gives/data/ip_list.txt
 https://myip.ms/files/blacklist/csf/latest_blacklist.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/Dandelion%20Sprout%27s%20and%20other%20adblocker%20lists%27%20IPs.ipset
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt
+https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/OFACSanctioned.txt
+https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/StateSponsorsOfTerrorism.txt
 https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/BruteForce/Medium
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/BruteForce/High
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/BruteForce/Extreme
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/Hackers
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/Hosting
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Other/Scanners
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
