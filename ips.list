@@ -31,5 +31,10 @@ https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://sigs.interserver.net/iprbl.txt
 https://www.binarydefense.com/banlist.txt
+https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/TXT/IPV4/BY.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/TXT/IPV4/CN.txt
+https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/TXT/IPV4/CU.txt
+https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/TXT/IPV4/HK.txt
+https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/TXT/IPV4/KP.txt
+https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/TXT/IPV4/MO.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/TXT/IPV4/RU.txt
