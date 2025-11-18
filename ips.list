@@ -16,6 +16,7 @@ https://lists.blocklist.de/lists/all.txt
 https://lists.blocklist.de/lists/strongips.txt
 http://myip.ms/files/blacklist/csf/latest_blacklist.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/Dandelion%20Sprout%27s%20and%20other%20adblocker%20lists%27%20IPs.ipset
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/OFACSanctioned.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/StateSponsorsOfTerrorism.txt
 https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt
